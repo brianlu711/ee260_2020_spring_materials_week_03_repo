@@ -20,6 +20,7 @@ You can embed math equations into Github Markdown file using a [web service](htt
 ## (5 pts)
 Describe the concept known as Moore’s Law.
 
+  -the theory that the processesing speeds of computers double evry two years
 ## (5 pts)
 Describe the behavior of the CMOS transistor
 circuit shown below, clearly indicating
